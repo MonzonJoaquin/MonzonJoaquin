@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 HTML | Javascript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <br/>
-Open to work! <br/>
+• Open to work! <br/> <br/>
 Bootcamp Assistant (TA) for Full-Stack Development Students <br/>
 • Coordinate a group of students to achieve integration to the study group. <br/>
 • Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
