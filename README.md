@@ -1,25 +1,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joaquín Monzón
 ======================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer <br/>
+Open to work! <br/> 
 --------------------
-
-HTML | Javascript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <br/>
-• Open to work! <br/> <br/>
+<h3>Technologies</h3>
+HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <hr/>
+<h3>Experience</h3>
 Bootcamp Assistant (TA) for Full-Stack Development Students <br/>
 • Coordinate a group of students to achieve integration to the study group. <br/>
 • Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
 • Propose ideas to improve the Bootcamp processes Asistente de enseñanza Full-Stack Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack <br/>
 • Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. <br/>
 • Orientar a los estudiantes en los primeros pasos de la cursada <br/>
-• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) • Proponer ideas para la mejora de los procesos del Bootcamp <br/>
-
-* 🌍  I'm based in Buenos Aires
-* ✉️  You can contact me at [dev.joaquinmonzon@gmail.com](mailto:dev.joaquinmonzon@gmail.com)
-* 🚀  I'm currently working on [Marketplace](http://mercado-los-7-enanitos.vercel.app/)
-
-### Skills
-
+• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) • Proponer ideas para la mejora de los procesos del Bootcamp <br/><hr/> <h3>Projects</h3>
+🚀  I'm currently working on [Marketplace](http://mercado-los-7-enanitos.vercel.app/) <hr/>
+<h3>About me</h3>
+🌍  I'm based in Buenos Aires <br/>
+✉️  You can contact me at [dev.joaquinmonzon@gmail.com](mailto:dev.joaquinmonzon@gmail.com) <hr/>
+<h3>Skills</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -35,8 +34,9 @@ Bootcamp Assistant (TA) for Full-Stack Development Students <br/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
+<hr/>
 
-
-### Socials
+<h3>Socials</h3>
 
 <p align="left"> <a href="https://www.github.com/MonzonJoaquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joaquin-monzon-b02904235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<hr/>
