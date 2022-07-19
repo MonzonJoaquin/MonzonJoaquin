@@ -6,14 +6,17 @@ Full Stack Developer (Open to work!) <br/>
 <h3>Technologies</h3>
 HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <hr/>
 <h3>Experience</h3>
-Bootcamp Assistant (TA) for Full-Stack Development Students <br/>
+<h4>Teaching assistant (TA) for bootcamp SoyHenry for Full-Stack Development Students</h4>
 • Coordinate a group of students to achieve integration to the study group. <br/>
 • Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
 • Propose ideas to improve the Bootcamp processes Asistente de enseñanza Full-Stack Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack <br/>
+<h4>Asistente de enseñanza para el bootcamp SoyHenry para estudiantes Full-Stack Development</h4>
 • Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. <br/>
 • Orientar a los estudiantes en los primeros pasos de la cursada <br/>
-• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) • Proponer ideas para la mejora de los procesos del Bootcamp <br/><hr/> <h3>Projects</h3>
-🚀  I'm currently working on [Marketplace](http://mercado-los-7-enanitos.vercel.app/) <hr/>
+• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) <br/>
+• Proponer ideas para la mejora de los procesos del Bootcamp <br/><hr/> 
+<h3>Projects</h3>
+🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</><hr/>
 <h3>About me</h3>
 🌍  I'm based in Buenos Aires <br/>
 ✉️  You can contact me at [dev.joaquinmonzon@gmail.com](mailto:dev.joaquinmonzon@gmail.com) <hr/>
