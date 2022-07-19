@@ -8,7 +8,8 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 <h3>Experience</h3>
 <h4>Teaching assistant (TA) for bootcamp SoyHenry for Full-Stack Development Students</h4>
 • Coordinate a group of students to achieve integration to the study group. <br/>
-• Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
+• Guide students in the first steps of the course <br/>
+• Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
 • Propose ideas to improve the Bootcamp processes Asistente de enseñanza Full-Stack Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack <br/>
 <h4>Asistente de enseñanza para el bootcamp SoyHenry para estudiantes Full-Stack Development</h4>
 • Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. <br/>
