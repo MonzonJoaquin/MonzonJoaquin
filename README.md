@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joaquín Monzón
 ======================================================================================================================================
 
-Full Stack Developer <br/>
-Open to work! <br/> 
+Full Stack Developer (Open to work!) <br/>
 --------------------
 <h3>Technologies</h3>
 HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <hr/>
