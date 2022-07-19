@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-HTML | Javascript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native 
+HTML | Javascript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <br/>
 Bootcamp Assistant (TA) for Full-Stack Development Students <br/>
-• Coordinate a group of students to achieve integration to the study group. 
-• Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) 
-• Propose ideas to improve the Bootcamp processes Asistente de enseñanza Full-Stack Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack 
-• Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. 
-• Orientar a los estudiantes en los primeros pasos de la cursada 
-• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) • Proponer ideas para la mejora de los procesos del Bootcamp
+• Coordinate a group of students to achieve integration to the study group. <br/>
+• Guide students in the first steps of the course • Assist to solve exercises and promote group collaboration (Pair Programming) <br/>
+• Propose ideas to improve the Bootcamp processes Asistente de enseñanza Full-Stack Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack <br/>
+• Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio. <br/>
+• Orientar a los estudiantes en los primeros pasos de la cursada <br/>
+• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) • Proponer ideas para la mejora de los procesos del Bootcamp <br/>
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [dev.joaquinmonzon@gmail.com](mailto:dev.joaquinmonzon@gmail.com)
