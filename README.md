@@ -17,7 +17,9 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 • Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) <br/>
 • Proponer ideas para la mejora de los procesos del Bootcamp <br/><hr/> 
 <h3>Projects</h3>
-🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</><hr/> (<a href='https://github.com/JuanCruzRausch/ProyectoGrupal'>Repository in Github</a>)
+🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</>
+ (<a href='https://github.com/JuanCruzRausch/ProyectoGrupal'>Repository in Github</a>) 
+ <hr/> 
 <h3>About me</h3>
 🌍  I'm based in Buenos Aires <br/>
 ✉️  You can contact me at dev.joaquinmonzon@gmail.com<hr/>
