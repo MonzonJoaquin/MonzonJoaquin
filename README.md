@@ -19,13 +19,13 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 <h3>Projects</h3>
 🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</> 
 
-[home/MEL7E](https://user-images.githubusercontent.com/84410085/180564838-3e9cb619-4863-45f8-868a-bd7153418243.jpg)
+<img src='https://user-images.githubusercontent.com/84410085/180564838-3e9cb619-4863-45f8-868a-bd7153418243.jpg' alt='picture home project'/>
 
 </br>
 <a href='https://github.com/JuanCruzRausch/ProyectoGrupal'>(Repository in Github)</a> 
  <hr/> 
 <h3>About me</h3>
-🌍  I'm based in Buenos Aires <br/>!
+🌍  I'm based in Buenos Aires! <br/>
 
 
 ✉️  You can contact me at dev.joaquinmonzon@gmail.com<hr/>
