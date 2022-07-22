@@ -48,4 +48,4 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 <hr/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monzonjoaquin&label=Profile%20views&color=0e75b6&style=flat" alt="monzon joaquin" /> </p>
+
