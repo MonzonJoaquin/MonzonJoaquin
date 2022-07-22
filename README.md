@@ -46,3 +46,6 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 
 <p align="left"> <a href="https://www.github.com/MonzonJoaquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joaquin-monzon-b02904235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr/>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monzonjoaquin&label=Profile%20views&color=0e75b6&style=flat" alt="monzon joaquin" /> </p>
