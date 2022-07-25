@@ -19,7 +19,7 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 <h3>Projects</h3>
 🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</> </br>
 </br>
-<a href='https://youtu.be/MdVpHXpBA5E'>
+<a href='https://youtu.be/MdVpHXpBA5E' target="_blank">
  <img src='https://user-images.githubusercontent.com/84410085/180564838-3e9cb619-4863-45f8-868a-bd7153418243.jpg' alt='picture home project'/>
 </a> 
 
