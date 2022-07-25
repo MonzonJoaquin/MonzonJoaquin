@@ -17,12 +17,14 @@ HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQ
 • Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming) <br/>
 • Proponer ideas para la mejora de los procesos del Bootcamp <br/><hr/> 
 <h3>Projects</h3>
-🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</> 
-
-<img src='https://user-images.githubusercontent.com/84410085/180564838-3e9cb619-4863-45f8-868a-bd7153418243.jpg' alt='picture home project'/>
-
+🚀  I'm currently working on <a href='http://mercado-los-7-enanitos.vercel.app/'>Marketplace</> </br>
 </br>
-<a href='https://github.com/JuanCruzRausch/ProyectoGrupal'>(Repository in Github)</a> 
+<a href='https://youtu.be/MdVpHXpBA5E'>
+ <img src='https://user-images.githubusercontent.com/84410085/180564838-3e9cb619-4863-45f8-868a-bd7153418243.jpg' alt='picture home project'/>
+</a> 
+
+
+<a href='https://github.com/JuanCruzRausch/ProyectoGrupal'>Repository in Github</a> 
  <hr/> 
 <h3>About me</h3>
 🌍  I'm based in Buenos Aires! <br/>
