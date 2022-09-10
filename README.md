@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer (Open to work!) <br/>
 --------------------
 <h3>Technologies</h3>
-HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native <br/> <hr/>
+HTML | JavaScript | CSS | React | Redux | Node Js | Express.js | Sequelize | PSQL | Mongoose | TypeScript | React Native | Next.js<br/> <hr/>
 <h3>Experience</h3>
 <h4>Teaching assistant (TA) for bootcamp SoyHenry for Full-Stack Development Students</h4>
 • Coordinate a group of students to achieve integration to the study group. <br/>
